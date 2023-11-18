@@ -8,8 +8,8 @@ public class Main {
 
     //UName and Password, I will have these blank when I submit this assignment, marking TA will have to put their
     // local values in here
-    static String username = "postgres";
-    static String pwd = "G0Postgres#1";
+    static String username = "";
+    static String pwd = "";
 
     public static void main(String[] args) throws SQLException {
 
